@@ -34,7 +34,7 @@ Prerequisites
 Installation
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/YOUR_USERNAME/MotorPH-Payroll-System.git](https://github.com/lragarces-lgtm/Milestone-2-MotorPH-Employee-App-Record-Management-Salary-Computation-and-Data-Update)
+   [git clone [https://github.com/YOUR_USERNAME/MotorPH-Payroll-System.git](https://github.com/lragarces-lgtm/Milestone-2-MotorPH-Employee-App-Record-Management-Salary-Computation-and-Data-Update](https://github.com/lragarces-lgtm/Milestone-2-MotorPH-Employee-App-Record-Management-Salary-Computation-and-Data-Update)
 
 2. Open the project in your preferred Java IDE.
 3. Ensure employees.csv and attendance.csv are in the root directory of the project.
