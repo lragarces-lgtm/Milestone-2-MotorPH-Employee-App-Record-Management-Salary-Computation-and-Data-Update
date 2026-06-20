@@ -14,8 +14,7 @@ Features
   - Pag-IBIG (HDMF) - 2% contribution (capped at P100).
   - Withholding Tax - Compliant with the TRAIN Law (RA 10963) tax brackets.
 - Smart Time Tracking:
-  - 10-minute grace period for tardiness.
-  - Automatic 1-hour unpaid lunch break deduction (12:00 PM - 1:00 PM).
+  - Automatic 1-hour and 30-minute unpaid lunch and  break deduction (12:00 PM - 1:30 PM).
 - Monthly Payroll Filtering: View payroll data by specific months or all months combined.
 - CSV Integration: Import, export, and backup employee and attendance data.
 - Employee Management: Add, edit, delete, and search employee records.
