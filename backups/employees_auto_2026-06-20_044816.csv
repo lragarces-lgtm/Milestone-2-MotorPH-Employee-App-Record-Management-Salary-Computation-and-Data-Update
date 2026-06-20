@@ -1,0 +1,35 @@
+Employee #,Last Name,First Name,Birthday,Status,Position,Immediate Supervisor,Basic Salary,Gross Semi-monthly Rate,Hourly Rate
+10001,Garcia,Manuel III,10/11/1983,Regular,Chief Executive Officer,N/A,"90,000","45,000",535.71
+10002,Lim,Antonio,06/19/1988,Regular,Chief Operating Officer,"Garcia, Manuel III","60,000","30,000",357.14
+10003,Aquino,Bianca Sofia,08/04/1989,Regular,Chief Finance Officer,"Garcia, Manuel III","60,000","30,000",357.14
+10004,Reyes,Isabella,06/16/1994,Regular,Chief Marketing Officer,"Garcia, Manuel III","60,000","30,000",357.14
+10005,Hernandez,Eduard,09/23/1989,Regular,IT Operations and Systems,"Lim, Antonio","52,670","26,335",313.51
+10006,Villanueva,Andrea Mae,02/14/1988,Regular,HR Manager,"Lim, Antonio","52,670","26,335",313.51
+10007,San Jose,Brad ,03/15/1996,Regular,HR Team Leader,"Villanueva, Andrea Mae","42,975","21,488",255.8
+10008,Romualdez,Alice,05/14/1992,Regular,HR Rank and File,"San, Jose Brad","22,500","11,250",133.93
+10009,Atienza,Rosie ,09/24/1948,Regular,HR Rank and File,"San, Jose Brad","22,500","11,250",133.93
+10010,Alvaro,Roderick,03/30/1988,Regular,Accounting Head,"Aquino, Bianca Sofia ","52,670","26,335",313.51
+10011,Salcedo,Anthony,09/14/1993,Regular,Payroll Manager,"Alvaro, Roderick","50,825","25,413",302.53
+10012,Lopez,Josie ,01/14/1987,Regular,Payroll Team Leader,"Salcedo, Anthony","38,475","19,238",229.02
+10013,Farala,Martha,01/11/1942,Regular,Payroll Rank and File,"Salcedo, Anthony","24,000","12,000",142.86
+10014,Martinez,Leila,07/11/1970,Regular,Payroll Rank and File,"Salcedo, Anthony","24,000","12,000",142.86
+10015,Romualdez,Fredrick ,03/10/1985,Regular,Account Manager,"Lim, Antonio","53,500","26,750",318.45
+10016,Mata,Christian,10/21/1987,Regular,Account Team Leader,"Romualdez, Fredrick ","42,975","21,488",255.8
+10017,De Leon,Selena ,02/20/1975,Regular,Account Team Leader,"Romualdez, Fredrick ","41,850","20,925",249.11
+10018,San Jose,Allison ,06/24/1986,Regular,Account Rank and File,"Mata, Christian","22,500","11,250",133.93
+10019,Rosario,Cydney ,10/06/1996,Regular,Account Rank and File,"Mata, Christian","22,500","11,250",133.93
+10020,Bautista,Mark ,02/12/1991,Regular,Account Rank and File,"Mata, Christian","23,250","11,625",138.39
+10021,Lazaro,Darlene ,11/25/1985,Probationary,Account Rank and File,"Mata, Christian","23,250","11,625",138.39
+10022,Delos Santos,Kolby ,02/26/1980,Probationary,Account Rank and File,"Mata, Christian","24,000","12,000",142.86
+10023,Santos,Vella ,12/31/1983,Probationary,Account Rank and File,"Mata, Christian","22,500","11,250",133.93
+10024,Del Rosario,Tomas,12/18/1978,Probationary,Account Rank and File,"Mata, Christian","22,500","11,250",133.93
+10025,Tolentino,Jacklyn ,05/19/1984,Probationary,Account Rank and File,"De Leon, Selena","24,000","12,000",142.86
+10026,Gutierrez,Percival ,12/18/1970,Probationary,Account Rank and File,"De Leon, Selena","24,750","12,375",147.32
+10027,Manalaysay,Garfield ,08/28/1986,Probationary,Account Rank and File,"De Leon, Selena","24,750","12,375",147.32
+10028,Villegas,Lizeth ,12/12/1981,Probationary,Account Rank and File,"De Leon, Selena","24,000","12,000",142.86
+10029,Ramos,Carol ,08/20/1978,Probationary,Account Rank and File,"De Leon, Selena","22,500","11,250",133.93
+10030,Maceda,Emelia ,04/14/1973,Probationary,Account Rank and File,"De Leon, Selena","22,500","11,250",133.93
+10031,Aguilar,Delia ,01/27/1989,Probationary,Account Rank and File,"De Leon, Selena","22,500","11,250",133.93
+10032,Castro,John Rafael,02/09/1992,Regular,Sales & Marketing,"Reyes, Isabella","52,670","26,335",313.51
+10033,Martinez,Carlos Ian,11/16/1990,Regular,Supply Chain and Logistics,"Reyes, Isabella","52,670","26,335",313.51
+10034,Santos,Beatriz,08/07/1990,Regular,Customer Service and Relations,"Reyes, Isabella","52,670","26,335",313.51

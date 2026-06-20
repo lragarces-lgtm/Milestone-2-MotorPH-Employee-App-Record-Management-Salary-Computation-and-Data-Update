@@ -1,0 +1,20 @@
+Employee #,Name,Birthday,Status,Position,Supervisor,Basic Salary,Semi-Monthly,Rate/Hour,Hours Worked,Gross Pay,Deductions,Net Pay
+10001,Manuel III Garcia,10/11/1983,Active,Manager,John Santos,₱50,000.00,₱25,000.00,₱535.71,119.67,₱64,106.63,₱8,125.37,₱55,981.26
+10002,Antonio Lim,06/19/1988,Active,Supervisor,Maria Cruz,₱35,000.00,₱17,500.00,₱357.14,119.67,₱42,737.75,₱4,221.64,₱38,516.11
+10003,Bianca Sofia Aquino,08/04/1989,Active,Staff,John Santos,₱25,000.00,₱12,500.00,₱357.14,119.67,₱42,737.75,₱2,107.53,₱40,630.22
+10004,Isabella Reyes,06/16/1994,Active,Staff,Maria Cruz,₱25,000.00,₱12,500.00,₱357.14,119.67,₱42,737.75,₱2,107.53,₱40,630.22
+10005,Eduard Hernandez,09/23/1989,Active,Staff,John Santos,₱22,000.00,₱11,000.00,₱313.51,119.67,₱37,516.70,₱1,416.06,₱36,100.64
+10006,Andrea Mae Villanueva,02/14/1988,Active,Staff,Maria Cruz,₱22,000.00,₱11,000.00,₱313.51,119.67,₱37,516.70,₱1,416.06,₱36,100.64
+10007,Brad San Jose,03/15/1996,Active,Staff,John Santos,₱18,000.00,₱9,000.00,₱255.80,119.67,₱30,610.73,₱1,176.72,₱29,434.01
+10008,Alice Romualdez,05/14/1992,Active,Staff,Maria Cruz,₱10,000.00,₱5,000.00,₱133.93,119.67,₱16,026.96,₱698.06,₱15,328.90
+10009,Rosie Atienza,09/24/1948,Active,Staff,John Santos,₱10,000.00,₱5,000.00,₱133.93,119.67,₱16,026.96,₱698.06,₱15,328.90
+10010,Roderick Alvaro,03/30/1988,Active,Staff,Maria Cruz,₱22,000.00,₱11,000.00,₱313.51,119.67,₱37,516.70,₱1,416.06,₱36,100.64
+10011,Anthony Salcedo,09/14/1993,Active,Staff,John Santos,₱21,000.00,₱10,500.00,₱302.53,119.67,₱36,202.76,₱1,356.22,₱34,846.53
+10012,Josie Lopez,01/14/1987,Active,Staff,Maria Cruz,₱16,000.00,₱8,000.00,₱229.02,119.67,₱27,406.06,₱1,057.06,₱26,349.00
+10013,Martha Farala,01/11/1942,Active,Staff,John Santos,₱10,000.00,₱5,000.00,₱142.86,119.67,₱17,095.58,₱698.06,₱16,397.52
+10014,Leila Martinez,07/11/1970,Active,Staff,Maria Cruz,₱10,000.00,₱5,000.00,₱142.86,119.67,₱17,095.58,₱698.06,₱16,397.52
+10015,Fredrick Romualdez,03/10/1985,Active,Staff,John Santos,₱22,000.00,₱11,000.00,₱318.45,119.67,₱38,107.85,₱1,416.06,₱36,691.79
+10016,Christian Mata,10/21/1987,Active,Staff,Maria Cruz,₱18,000.00,₱9,000.00,₱255.80,119.67,₱30,610.73,₱1,176.72,₱29,434.01
+10017,Selena De Leon,02/20/1975,Active,Staff,John Santos,₱17,500.00,₱8,750.00,₱249.11,119.67,₱29,810.16,₱1,146.81,₱28,663.36
+10018,Allison San Jose,06/24/1986,Active,Staff,Maria Cruz,₱10,000.00,₱5,000.00,₱133.93,119.67,₱16,026.96,₱698.06,₱15,328.90
+10019,Cydney Rosario,10/06/1996,Active,Staff,John Santos,₱10,000.00,₱5,000.00,₱133.93,119.67,₱16,026.96,₱698.06,₱15,328.90
