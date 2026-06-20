@@ -76,13 +76,9 @@ Payroll Report:
 
 
 Project Structure
-MotorPH-Payroll-System/
-├── src/
-│   └── MotorPHGUI.java       # Main application logic and UI
-── employees.csv             # Employee master data
-├── attendance.csv            # Daily time records
-├── backups/                  # Auto-generated backup folder
-└── README.md
+
+<img width="594" height="120" alt="image" src="https://github.com/user-attachments/assets/239a89b7-ffe0-4d78-bbee-11fb9ee74c39" />
+
 
 
 
